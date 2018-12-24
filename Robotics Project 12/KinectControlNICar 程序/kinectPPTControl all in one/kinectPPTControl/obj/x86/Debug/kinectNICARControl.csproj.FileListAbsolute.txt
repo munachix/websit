@@ -1,0 +1,109 @@
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+F:\新建文件夹 (2)\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+H:\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\搬走\U\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹\KinectControlNICar\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectNICARControl.csprojAssemblyReference.cache
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectNICARControl.csproj.GenerateResource.cache
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectNICARControl.csproj.CoreCompileInputs.cache
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectNICARControl.csproj.CopyComplete
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+C:\Users\Wrench\Desktop\KinectControlNICar 程序\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb

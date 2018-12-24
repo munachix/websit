@@ -1,0 +1,26 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\App.g.cs
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\kinectPPTControl\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.exe
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.pdb
+E:\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.exe
+E:\kinectPPTControl all in one\kinectPPTControl\bin\Debug\kinectPPTControl.pdb
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.baml
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\MainWindow.g.cs
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\App.g.cs
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl_MarkupCompile.cache
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.g.resources
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\kinectPPTControl.Properties.Resources.resources
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\kinectPPTControl all in one\kinectPPTControl\obj\x86\Debug\GenerateResource.write.1.tlog
